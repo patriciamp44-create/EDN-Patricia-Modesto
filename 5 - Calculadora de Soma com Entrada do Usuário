@@ -1,0 +1,8 @@
+# Calculadora de Soma com Entrada do Usuário
+
+A = int(input("Digite o primeiro número inteiro (A): "))
+B = int(input("Digite o segundo número inteiro (B): "))
+
+X = A + B
+
+print(f"X = {X}")
